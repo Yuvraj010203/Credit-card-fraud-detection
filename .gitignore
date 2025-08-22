@@ -175,3 +175,6 @@ kafka-logs/
 
 # Kubernetes
 *.kubeconfig
+
+# Others
+my-mailmap.txt
